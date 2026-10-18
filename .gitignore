@@ -1,0 +1,7 @@
+node_modules/
+.env
+.env.*
+!.env.example
+todo-practice.tar
+copied-package.json
+note.txt
